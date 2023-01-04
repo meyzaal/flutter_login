@@ -1,0 +1,14 @@
+name: user_repository
+description: A starting point for Dart libraries or applications.
+
+environment:
+  sdk: '>=2.18.5 <3.0.0'
+
+dependencies:
+  equatable: ^2.0.5
+  uuid: ^3.0.7
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
+  very_good_analysis: ^3.1.0
